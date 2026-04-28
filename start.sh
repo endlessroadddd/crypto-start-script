@@ -21,8 +21,8 @@ BACKEND_PORT=3000
 # 前端端口
 FRONTEND_PORT=5173
 
-# 项目路径 (默认当前目录)
-PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
+# 项目路径
+PROJECT_DIR="$HOME/Desktop/工作/crypto"
 # ============================================
 
 # 颜色
